@@ -54,4 +54,14 @@ font-family: "Clicker Script" cursive;
   text-decoration:none;
 }
 
+#details a:hover {
+  color:black;
+  text-decoration: underline;
+}
+
+
+#details a:active {
+  color:red;
+}
+
 
