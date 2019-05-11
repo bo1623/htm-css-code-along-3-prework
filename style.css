@@ -22,3 +22,11 @@ figcaption {
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
   color: #000000; /*000000=RRGGBB*/
 }
+
+/*Class selector (applied to as many elements as you like) */
+/*can give class any name*/
+.milk { 
+  font: bold 2.6em Georgia, cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+
