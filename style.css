@@ -49,7 +49,7 @@ font-family: "Clicker Script" cursive;
 /*Pseudo selector */
 /* style links within a certain section with a certain state*/
 
-#details a:link, #details a:visited{
+#details a:link, #details a:visited{ /*here we're selecting links that have not been touched and links that have been visited to have the same style*/
   color:black;
   text-decoration:none;
 }
