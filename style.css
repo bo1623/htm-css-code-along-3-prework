@@ -14,8 +14,10 @@ line-height: 1.5em;
 }
 
 figcaption {
-  font-weight: normal;
+  /*font-weight: normal;
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Time Roman", serif;
+  the above attritbutes can be represented by the line below*/
+  font: normal 0.75em/1.5em;
 }
