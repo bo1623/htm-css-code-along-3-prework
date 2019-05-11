@@ -36,5 +36,12 @@ figcaption {
 /* find ID using # sign*/
 #logo{/* select elements with the id="logo" */
   background:aqua;
+}
+
+
+/* descendent selector */
+
+#logo h1 {/* only styles <h1> if theyre inside an elements with id="logo"*/
+font-family: "Clicker Script" cursive;
   
 }
